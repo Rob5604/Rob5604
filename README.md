@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rob5604
-- 👀 I’m interested in Data Analysis/Data Science. 
-- 🌱 I'm a US educated and trained M.D., with experience in Orthopedic Surgery, Anesthesiology and Primary Care. I was an US Navy Medical Officer. 
-- I’m currently studying Machine learning with Python
+- 👀 I am a junior Data Analyst, Data Scientist, and Programmer
+- 🌱 I'm a US educated and trained M.D., with experience in Orthopedic Surgery, Anesthesiology and Primary Care. I was a US Navy Medical Officer. 
+
 - 💞️ I’m looking to collaborate on projects that have a potential impact on healthcare delivery and outcomes. 
 - 📫 How to reach me:  dr.robertdolan@gmail.com
 
